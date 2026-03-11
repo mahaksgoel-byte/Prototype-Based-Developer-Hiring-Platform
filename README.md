@@ -299,7 +299,7 @@ root/
 📖 Setup Instructions
 
 🔁 Clone the Repository
-git clone https://github.com/DakshVDharmani/HM062_VesselVirus
+git clone https://github.com/mahaksgoel-byte/Prototype-Based-Developer-Hiring-Platform
 
 ---------------------------------------------------------
 
@@ -339,16 +339,7 @@ npm run dev
 
 🔐 On-chain certificate verification
 
-👨‍💻 Team
 ---------------------------------------------------------
-
-Vessel Virus
-
-🔗 [https://github.com/DakshVDharmani/HM062_VesselVirus]
-
-Team Lead: Daksh V Dharmani
-
-📧 daksh.v.dharmani@gmail.com
 
 📜 License
 
